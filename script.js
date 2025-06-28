@@ -258,9 +258,9 @@ function App() {
             <main>
                 <Home />
                 <About />
-                <Responsibilities />
-                <Projects onviewproject={handleviewproject} />
                 <Skills />
+                <Projects onviewproject={handleviewproject} />
+                <Responsibilities /> 
                 <Contact />
             </main>
             <Footer />
@@ -270,4 +270,3 @@ function App() {
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(<App />);
-
