@@ -451,10 +451,10 @@ const Contact = () => (
           <h2 className="fw-bold">Get In Touch</h2>
           <p className="lead text-muted my-4">Feel free to reach out.</p>
           <a
-            href="mailto:vaibhavreddy1098@gmail.com"
+            href="mailto:vaibhavreddyprf@gmail.com"
             className="h3 text-decoration-none text-primary"
           >
-            vaibhavreddy1098@gmail.com
+            vaibhavreddyprf@gmail.com
           </a>
           <p className="text-muted mt-3">Phone: +91 9121690613</p>
           <div className="mt-4 d-flex justify-content-center gap-3">
