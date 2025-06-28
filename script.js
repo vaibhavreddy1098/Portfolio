@@ -233,7 +233,7 @@ const Contact = () => (
 );
 
 const Footer = () => (
-    <footer className="py-4 bg-light border-top"><div className="container text-center"><p className="mb-0 text-muted">&copy; 2025 Vaibhav Reddy. All rights reserved.</p></div></footer>
+    <footer className></footer>
 );
 
 const ProjectDetail = ({ projectid, onback }) => {
@@ -270,3 +270,4 @@ function App() {
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(<App />);
+
