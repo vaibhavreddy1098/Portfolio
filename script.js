@@ -8,7 +8,7 @@ const projectsdata = [
     category: "Machine Learning",
     summary:
       "Trace analysis of LLMs to identify GPU idle intervals and implement power-saving DVFS strategies.",
-    tags: ["PyTorch Profiler", "DVFS", "Python"],
+    tags: ["PyTorch Profiler", "DVFS", "Python","HTA"],
     github: "https://github.com/vaibhav-reddy1",
     content: `
             <p class="fw-semibold text-dark">Situation:</p>
@@ -28,8 +28,8 @@ const projectsdata = [
     summary:
       "Designed and developed a personal portfolio from scratch using React.js and Bootstrap to showcase projects and skills.",
     tags: ["React.js", "Bootstrap 5", "JavaScript", "HTML5", "CSS3"],
-    github: "https://github.com/vaibhav-reddy1/portfolio",
-    liveDemo: "#",
+    github: "https://github.com/vaibhavreddy1098/Portfolio",
+    liveDemo: "https://vaibhavreddy1098.github.io/Portfolio/",
     content: `
             <p class="fw-semibold text-dark">Situation:</p>
             <p>A static resume is insufficient to fully demonstrate technical skills. A dynamic, interactive web portfolio was needed to create a compelling professional narrative using modern technologies like React.</p>
@@ -48,7 +48,7 @@ const projectsdata = [
     summary:
       "A fully functional, user-friendly Ludo game simulation developed from scratch in C language.",
     tags: ["C"],
-    github: "https://github.com/vaibhav-reddy1",
+    github: "https://github.com/vaibhavreddy1098/Ludo",
     content: `
             <p class="fw-semibold text-dark">Situation:</p>
             <p>The objective was to build a complete Ludo game simulation purely in C, demonstrating foundational programming skills and application state management in a terminal-based environment.</p>
