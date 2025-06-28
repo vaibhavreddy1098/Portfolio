@@ -9,7 +9,7 @@ const projectsdata = [
     summary:
       "Trace analysis of LLMs to identify GPU idle intervals and implement power-saving DVFS strategies.",
     tags: ["PyTorch Profiler", "DVFS", "Python","HTA"],
-    github: "https://github.com/vaibhav-reddy1",
+    github: "https://github.com/vaibhavreddy1098/Energy-efficient-LLM",
     content: `
             <p class="fw-semibold text-dark">Situation:</p>
             <p>Large Language Models (LLMs) are computationally expensive, and their inference operations consume significant amounts of energy. A key opportunity for optimization lies in the periods where the GPU is idle or underutilized.</p>
